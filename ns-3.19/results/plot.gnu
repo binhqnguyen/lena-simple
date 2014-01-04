@@ -20,7 +20,9 @@ set output "rate.svg"
 set terminal svg
 
 
-plot "data/tcp-send.dat" using 1:3 title "TCP throughput (Rx rate)" with lines
+plot "data/tcp-send.dat" using 1:3 title "TCP goodput (Rx rate)" with lines,\
+"data/udp-send.dat" using 1:3 title "UDP goodput (Rx rate)" with lines
+
 
 #===========================================
 reset
@@ -36,7 +38,7 @@ set y2tics nomirror tc lt 2
 set terminal svg
 
 
-plot "data/cwnd.dat" using 3:12 title "cwnd" with lines,\
+plot "data/cwnd.dat" using 3:($12/PKTSIZE) title "cwnd" with lines,\
 "data/tcp-send.dat" using 1:12 title "TCP delay" with lines axis x2y2
 
 

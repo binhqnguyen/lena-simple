@@ -30,3 +30,426 @@ Lost ratio 0
 Average delay received +39.15971653533519354729
 Mean received bitrate +31.01657841153070306154
 Mean transmitted bitrate +30.13143871698711498395
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 28845
+Rx Packets 28750
+Lost packets 46
+Lost ratio 0.00159744
+Average delay received +138.03715123643712372483
+Mean received bitrate +1300.1321029325594618045
+Mean transmitted bitrate +1304.09051885523598208361
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 14782
+Rx Packets 14777
+Lost packets 0
+Lost ratio 0
+Average delay received +40.008839127031903879
+Mean received bitrate +46.08298385058598906914
+Mean transmitted bitrate +46.08295275384572539726
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 1381963
+Rx Packets 188142
+Lost packets 0
+Lost ratio 0
+Average delay received +49.06876245173518553239
+Mean received bitrate +13713.09688685620198963229
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 1381963
+Rx Packets 1005784
+Lost packets 0
+Lost ratio 0
+Average delay received +37.08726329700437829329
+Mean received bitrate +73317.07632076533640107228
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 144953
+Rx Packets 144864
+Lost packets 12
+Lost ratio 8.28295e-05
+Average delay received +39.03745214642153065152
+Mean received bitrate +6553.14637626621213533789
+Mean transmitted bitrate +6556.09339788932793863316
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 72550
+Rx Packets 72528
+Lost packets 0
+Lost ratio 0
+Average delay received +35.12245838261833355209
+Mean received bitrate +227.18357674189839986293
+Mean transmitted bitrate +227.17264821607923970668
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 1381963
+Rx Packets 1477
+Lost packets 0
+Lost ratio 0
+Average delay received +264.13342405469869288024
+Mean received bitrate +107.1745188438828207865
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 1381963
+Rx Packets 1005784
+Lost packets 0
+Lost ratio 0
+Average delay received +37.08726329700437829329
+Mean received bitrate +73317.07632076533640107228
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 11
+Rx Packets 2
+Lost packets 9
+Lost ratio 0.818182
+Average delay received +34.00649694326276050407
+Mean received bitrate +0.02856704719227539062
+Mean transmitted bitrate +0.12012655121401367187
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 5
+Rx Packets 5
+Lost packets 0
+Lost ratio 0
+Average delay received +41.1714733697441337709
+Mean received bitrate +0.00927501532216796875
+Mean transmitted bitrate +0.00927501532216796875
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 1381963
+Rx Packets 1477
+Lost packets 0
+Lost ratio 0
+Average delay received +264.13342405469869288024
+Mean received bitrate +107.1745188438828207865
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 1381963
+Rx Packets 1005784
+Lost packets 0
+Lost ratio 0
+Average delay received +37.08726329700437829329
+Mean received bitrate +73317.07632076533640107228
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 11
+Rx Packets 2
+Lost packets 9
+Lost ratio 0.818182
+Average delay received +34.00649694326276050407
+Mean received bitrate +0.02856704719227539062
+Mean transmitted bitrate +0.12012655121401367187
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 5
+Rx Packets 5
+Lost packets 0
+Lost ratio 0
+Average delay received +41.1714733697441337709
+Mean received bitrate +0.00927501532216796875
+Mean transmitted bitrate +0.00927501532216796875
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 1381963
+Rx Packets 0
+Lost packets 0
+Lost ratio -nan
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 1381963
+Rx Packets 1005784
+Lost packets 0
+Lost ratio 0
+Average delay received +37.08726329700437829329
+Mean received bitrate +73317.07632076533640107228
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 6
+Rx Packets 0
+Lost packets 5
+Lost ratio 1
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 2
+Rx Packets 0
+Lost packets 0
+Lost ratio -nan
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 475
+Rx Packets 432
+Lost packets 0
+Lost ratio 0
+Average delay received +96.13842629974015660346
+Mean received bitrate +439.03984865068792973388
+Mean transmitted bitrate +474.07587940528838549641
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 325
+Rx Packets 325
+Lost packets 0
+Lost ratio 0
+Average delay received +39.1693227120979106286
+Mean received bitrate +23.01036388326721328457
+Mean transmitted bitrate +23.00843435201009414394
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 13539
+Rx Packets 13471
+Lost packets 0
+Lost ratio 0
+Average delay received +43.00995779481526973181
+Mean received bitrate +6403.00637236986277135564
+Mean transmitted bitrate +6412.0693694759976226477
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 6736
+Rx Packets 6709
+Lost packets 0
+Lost ratio 0
+Average delay received +35.0460744504350099837
+Mean received bitrate +222.08679902225006884998
+Mean transmitted bitrate +222.06914118737959033435
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 13539
+Rx Packets 13471
+Lost packets 0
+Lost ratio 0
+Average delay received +43.00995779481526973181
+Mean received bitrate +6403.00637236986277135564
+Mean transmitted bitrate +6412.0693694759976226477
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 6736
+Rx Packets 6709
+Lost packets 0
+Lost ratio 0
+Average delay received +35.0460744504350099837
+Mean received bitrate +222.08679902225006884998
+Mean transmitted bitrate +222.06914118737959033435
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 1381963
+Rx Packets 96158
+Lost packets 0
+Lost ratio 0
+Average delay received +65.0218493494781766858
+Mean received bitrate +7008.17577865614097040697
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 1381963
+Rx Packets 1005784
+Lost packets 0
+Lost ratio 0
+Average delay received +37.08726329700437829329
+Mean received bitrate +73317.07632076533640107228
+Mean transmitted bitrate +100695.16894676115743972192
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 153433
+Rx Packets 153368
+Lost packets 0
+Lost ratio 0
+Average delay received +42.17697655916761527349
+Mean received bitrate +6938.09739686511159208504
+Mean transmitted bitrate +6939.03161527305853953763
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 76684
+Rx Packets 76656
+Lost packets 0
+Lost ratio 0
+Average delay received +35.04045789133569052503
+Mean received bitrate +240.1734409176961386216
+Mean transmitted bitrate +240.17045425047901948097
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 131946
+Rx Packets 9152
+Lost packets 0
+Lost ratio 0
+Average delay received +198.04754409829791289878
+Mean received bitrate +7010.0458001569711739059
+Mean transmitted bitrate +100696.11181735579745358076
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 131946
+Rx Packets 95643
+Lost packets 0
+Lost ratio 0
+Average delay received +50.06214693571846706514
+Mean received bitrate +73322.03147577765536685085
+Mean transmitted bitrate +100696.11181735579745358076
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 13539
+Rx Packets 13471
+Lost packets 0
+Lost ratio 0
+Average delay received +43.00995779481526973181
+Mean received bitrate +6403.00637236986277135564
+Mean transmitted bitrate +6412.0693694759976226477
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 6736
+Rx Packets 6709
+Lost packets 0
+Lost ratio 0
+Average delay received +35.0460744504350099837
+Mean received bitrate +222.08679902225006884998
+Mean transmitted bitrate +222.06914118737959033435
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 131946
+Rx Packets 9152
+Lost packets 0
+Lost ratio 0
+Average delay received +49.12009821094208871507
+Mean received bitrate +7010.0458001569711739059
+Mean transmitted bitrate +100696.11181735579745358076
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 131946
+Rx Packets 95643
+Lost packets 0
+Lost ratio 0
+Average delay received +35.18378491997041843588
+Mean received bitrate +73322.03147577765536685085
+Mean transmitted bitrate +100696.11181735579745358076
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 4138
+Rx Packets 4124
+Lost packets 0
+Lost ratio 0
+Average delay received +39.04166545874813906147
+Mean received bitrate +1959.11168211524025493631
+Mean transmitted bitrate +1967.09639878898053182265
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 2186
+Rx Packets 2156
+Lost packets 0
+Lost ratio 0
+Average delay received +36.09641387911894572752
+Mean received bitrate +71.14715721028962655576
+Mean transmitted bitrate +72.03065363239799002398
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 409727
+Rx Packets 28486
+Lost packets 0
+Lost ratio 0
+Average delay received +49.12182471164313534103
+Mean received bitrate +7009.02075376093817176581
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 409727
+Rx Packets 297897
+Lost packets 0
+Lost ratio 0
+Average delay received +35.18364384632821055146
+Mean received bitrate +73318.13114328636766493112
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 31757
+Rx Packets 31678
+Lost packets 13
+Lost ratio 0.000410211
+Average delay received +41.03378318454498488997
+Mean received bitrate +4837.0975550169349746622
+Mean transmitted bitrate +4844.03320672652024745533
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 15963
+Rx Packets 15935
+Lost packets 0
+Lost ratio 0
+Average delay received +35.09918194606329052506
+Mean received bitrate +169.04514352061405112833
+Mean transmitted bitrate +169.05436173968779136271
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 409727
+Rx Packets 18812
+Lost packets 0
+Lost ratio 0
+Average delay received +58.0432443111535900581
+Mean received bitrate +4628.14386770025923636777
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 409727
+Rx Packets 72412
+Lost packets 0
+Lost ratio 0
+Average delay received +41.03800605767958647603
+Mean received bitrate +17822.02548387328209966835
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 23629
+Rx Packets 23423
+Lost packets 176
+Lost ratio 0.00745794
+Average delay received +42.17682182869910221064
+Mean received bitrate +3577.1046004276141531488
+Mean transmitted bitrate +3605.00071267417466814945
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 11970
+Rx Packets 11960
+Lost packets 0
+Lost ratio 0
+Average delay received +36.00494976548146149747
+Mean received bitrate +127.00966326702843976018
+Mean transmitted bitrate +126.18028453397133605759
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 409727
+Rx Packets 18812
+Lost packets 0
+Lost ratio 0
+Average delay received +284.09085066818112545804
+Mean received bitrate +4628.14386770025923636777
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 409727
+Rx Packets 72412
+Lost packets 0
+Lost ratio 0
+Average delay received +100.03477680032224302143
+Mean received bitrate +17822.02548387328209966835
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 29571
+Rx Packets 29487
+Lost packets 0
+Lost ratio 0
+Average delay received +82.0602127212437851103
+Mean received bitrate +4502.17023766768355460705
+Mean transmitted bitrate +4510.1310247452924252434
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 14744
+Rx Packets 14725
+Lost packets 0
+Lost ratio 0
+Average delay received +35.13605204865537374096
+Mean received bitrate +156.07256630502706432279
+Mean transmitted bitrate +156.06763680953381236966
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 23193
+Rx Packets 23125
+Lost packets 12
+Lost ratio 0.00051865
+Average delay received +49.11861373942562475835
+Mean received bitrate +3531.06059391701942384529
+Mean transmitted bitrate +3537.11802288403592301395
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 11813
+Rx Packets 11795
+Lost packets 0
+Lost ratio 0
+Average delay received +35.17956272314533112759
+Mean received bitrate +125.0497624493899745425
+Mean transmitted bitrate +125.052823486550794855
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 409727
+Rx Packets 18812
+Lost packets 0
+Lost ratio 0
+Average delay received +83.08452463248230284881
+Mean received bitrate +4628.14386770025923636777
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 2 Src Addr 7.0.0.2:49153 Dst Addr 1.0.0.2:7001
+Tx Packets 409727
+Rx Packets 72412
+Lost packets 0
+Lost ratio 0
+Average delay received +47.14147502379922143953
+Mean received bitrate +17822.02548387328209966835
+Mean transmitted bitrate +100696.01637363969994381514
+***Flow ID: 1 Src Addr 1.0.0.2:49153 Dst Addr 7.0.0.2:2001
+Tx Packets 23193
+Rx Packets 23125
+Lost packets 12
+Lost ratio 0.00051865
+Average delay received +49.11861373942562475835
+Mean received bitrate +3531.06059391701942384529
+Mean transmitted bitrate +3537.11802288403592301395
+***Flow ID: 2 Src Addr 7.0.0.2:2001 Dst Addr 1.0.0.2:49153
+Tx Packets 11813
+Rx Packets 11795
+Lost packets 0
+Lost ratio 0
+Average delay received +35.17956272314533112759
+Mean received bitrate +125.0497624493899745425
+Mean transmitted bitrate +125.052823486550794855

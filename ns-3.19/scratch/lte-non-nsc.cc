@@ -70,7 +70,7 @@ uint16_t isTcp = 1;
 /**Topology variables**/
 uint16_t numberOfUeNodes = 1;
 uint16_t numberOfEnodebs = 1;
-double distance = 1000.0;    //With enbTxPower=5, Noise=37 and UeTxPower=50 (NEED TO BE THAT HIGH TO GUARANTEE UPLINK FOR TCP ACK FLOW), noise=9, we have roughly 1000Kb/s downlink bandwidth.
+double distance = 200.0;    //With enbTxPower=5, Noise=37 and UeTxPower=50 (NEED TO BE THAT HIGH TO GUARANTEE UPLINK FOR TCP ACK FLOW), noise=9, we have roughly 1000Kb/s downlink bandwidth.
 
 //S1uLink characteristics.
 std::string s1uLinkDataRate = "1Gb/s";

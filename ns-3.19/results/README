@@ -1,0 +1,7 @@
+Parsing and plotting results.
+==============================
+1. TCP.log: log file of the simulation (log from LogComponents inside the simulation).
+2. plot.gnu: plot script, usage "gnuplot plot.gnu".
+3. parser: contains parsing scripts to filter data from TCP.log.
+4. fig: contains figure after plotting, svg format.
+5. data: contains data files that are used for plotting.
